@@ -1,6 +1,6 @@
 # Custom
 .idea/
-
+.static_root/
 
 # Created by https://www.gitignore.io/api/linux,macos,python,django,pycharm
 
